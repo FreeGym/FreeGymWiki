@@ -22,7 +22,7 @@ This community provides a neutral platform for enthusiasts, professionals, and c
 
 ## What’s Our Short-Term Goal?
 
-Our immediate focus is to identify the founding fathers and mothers and build the initial founding community for collaborative fact-checking and jointly drafting our constitution. 
+Our immediate focus is to identify the founding fathers and mothers of modern fitness and build the initial founding community for collaborative fact-checking and jointly drafting our constitution. 
 
 This fitness fact-checking constitution will outline our core principles, shared values, standards, policies, and processes.
 
@@ -76,3 +76,16 @@ A manifesto for transparency, ethics, reason, and literacy.
 Let’s literally write the change we wish to see.
 
 Our journey begins now.
+
+I'll guide you on how to create a digital revolution and take the world by storm.
+
+But beyond the revolution, at the heart of this movement, is a story of trust, love, and the indomitable human spirit. 
+
+---
+
+रिश्ता दिल से दिल के ऐतबार का
+ज़िन्दा है हमीं से नाम प्यार का
+के मर के भी किसी को याद आयेंगे
+किसी के आँसुओं में मुस्कुरायेंगे
+कहेगा फूल हर कली से बार बार
+जीना इसी का नाम है
