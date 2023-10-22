@@ -2,6 +2,8 @@
 
 Collaborative wiki for evidence-based fact checks of claims made in fitness videos, articles, and media. Goal is to promote reliable fitness information and constructive dialogue through transparent sourcing, clear explanations, and input from professionals and enthusiasts. Each fitness claim gets a page with a verifiable fact-check rating. Please review the contribution guidelines and code of conduct.
 
+![FreeGym!](https://drive.google.com/file/d/1pTeeO3YHa7-HSVa775yS5sG3UZcEJYcy/view?usp=share_link)
+
 ## Why?
 
 Misinformation and unsubstantiated claims are rampant in online fitness content. This wiki aims to counter that by promoting science-backed information through collaborative fact-checking.
