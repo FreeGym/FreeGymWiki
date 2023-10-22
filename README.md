@@ -2,7 +2,7 @@
 
 Collaborative wiki for evidence-based fact checks of claims made in fitness videos, articles, and media. Goal is to promote reliable fitness information and constructive dialogue through transparent sourcing, clear explanations, and input from professionals and enthusiasts. Each fitness claim gets a page with a verifiable fact-check rating. Please review the contribution guidelines and code of conduct.
 
-![FreeGym!](https://github.com/FreeGym/images/assets/128644548/2ca036ef-e6f2-47a9-8390-a948f18499db)
+![FreeGym!](https://github.com/FreeGym/images/assets/128644548/1a129c09-db51-4d85-ae52-6470bf12d1be)
 
 ## Why?
 
