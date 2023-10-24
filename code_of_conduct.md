@@ -1,10 +1,10 @@
 # Code of Conduct
 
-This code of conduct outlines expectations for participation in the FreeGym fitness fact checking community. It applies to all spaces including discussions, wiki pages, and issue trackers.
+This code of conduct outlines expectations for participation in the FreeGym fitness fact-checking community. It applies to all spaces including discussions, wiki pages, and issue trackers.
 
 ## Be respectful
 
-Value each other's ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and perspectives.
+Value each other's ideas, styles, and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and perspectives.
 
 ## Be collaborative
 
@@ -12,11 +12,11 @@ This is a shared community resource. Work together towards common goals with pat
 
 ## Be truthful
 
-Provide truthful, substantiated and relevant information to the best of your ability. Promote constructive honest dialogue.
+Provide truthful, substantiated, and relevant information to the best of your ability. Promote constructive honest dialogue.
 
 ## Be responsible
 
-You are responsible for the content you post and promoting a helpful, safe and ethical environment. Cite sources where applicable and test speculative claims before stating them as fact.
+You are responsible for the content you post and for promoting a helpful, safe, and ethical environment. Cite sources where applicable and test speculative claims before stating them as fact.
 
 ## Be charitable
 
