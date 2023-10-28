@@ -10,17 +10,17 @@
 
 ## Transcript
 
-[00:00.000 -> 00:04.100]  If you want to maximize your muscle growth, here's exactly how long you should be resting between your sets.
-[00:04.100 -> 00:05.400]  Remember this one statement.
-[00:05.400 -> 00:09.900]  It's very easy to rest too little, but very difficult to rest too long.
-[00:09.900 -> 00:12.400]  This is without a doubt one of the most common mistakes that I see people make.
-[00:12.400 -> 00:17.500]  Always utilizing short rest periods to chase a burn or a pump, which is fun sometimes,
-[00:17.500 -> 00:19.800]  but it's not what you should focus on if you want to build muscle.
-[00:19.800 -> 00:25.480]  Make it your goal to not have your previous set negatively impact the set that you're about to do right now.
-[00:25.480 -> 00:29.800]  Resting at least 2-3 minutes and sometimes as much as 4 minutes or even more.
-[00:29.800 -> 00:33.640]  It allows your muscles to fully recover so that you can use them at their maximum capacity
-[00:33.640 -> 00:34.640]  for each set.
-[00:34.640 -> 00:35.640]  And that's what builds muscle.
+[00:00.000 -> 00:04.100]  If you want to maximize your muscle growth, here's exactly how long you should be resting between your sets. <br>
+[00:04.100 -> 00:05.400]  Remember this one statement. <br>
+[00:05.400 -> 00:09.900]  It's very easy to rest too little, but very difficult to rest too long. <br>
+[00:09.900 -> 00:12.400]  This is without a doubt one of the most common mistakes that I see people make. <br>
+[00:12.400 -> 00:17.500]  Always utilizing short rest periods to chase a burn or a pump, which is fun sometimes, <br>
+[00:17.500 -> 00:19.800]  but it's not what you should focus on if you want to build muscle. <br>
+[00:19.800 -> 00:25.480]  Make it your goal to not have your previous set negatively impact the set that you're about to do right now. <br>
+[00:25.480 -> 00:29.800]  Resting at least 2-3 minutes and sometimes as much as 4 minutes or even more. <br>
+[00:29.800 -> 00:33.640]  It allows your muscles to fully recover so that you can use them at their maximum capacity <br>
+[00:33.640 -> 00:34.640]  for each set. <br>
+[00:34.640 -> 00:35.640]  And that's what builds muscle. <br>
 
 ## Summary
 
