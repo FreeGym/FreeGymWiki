@@ -63,6 +63,10 @@ The goal is to tap into our collective wisdom through respectful debates, transp
 
 My voice is limited, but our voices combined have power. I look forward to learning from you all as we shape the future of fitness education together.
 
+## How To Contribute
+
+For detailed instructions on how to contribute to this project, please refer to the [How To Contribute Guidelines](how_to_contribute.md).
+
 ## The Constitution
 
 I will not write it alone. That would inject bias. This is where the founding community comes in.
