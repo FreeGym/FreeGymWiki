@@ -67,6 +67,12 @@ My voice is limited, but our voices combined have power. I look forward to learn
 
 For detailed instructions on how to contribute to this project, please refer to the [How To Contribute Guidelines](how_to_contribute.md).
 
+## Start Here 
+
+Go to this link, add your name and motivation behind joining this community after going through the above [mentioned](how_to_contribute.md) guide.<br>
+[Start Here](Start-Here.md)
+
+
 ## The Constitution
 
 I will not write it alone. That would inject bias. This is where the founding community comes in.
