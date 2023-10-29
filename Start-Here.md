@@ -16,6 +16,9 @@ Motivation: My Motivation is that I want to help build this community and make i
 
 Motivation: My Motivation is that I want to learn new things as I follow my passion for fitness and tech, and help build a community that is a one-stop place for every fitness enthusiast out there.</li>
 
+<li>Name: Tanmay 
+Motivation: Building cool tech for FreeGym</li>
+
 
 </ol>
 <!-- copy this and add your
