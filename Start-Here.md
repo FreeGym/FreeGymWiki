@@ -20,7 +20,9 @@ Motivation: My Motivation is that I want to learn new things as I follow my pass
   
 Motivation: Building cool tech for FreeGym</li>
 
+<li>Name: Arun Kumar
 
+Motivation: My Motivation is to contribute with full of potential and be the part of free gym!</li>
 </ol>
 <!-- copy this and add your
 
