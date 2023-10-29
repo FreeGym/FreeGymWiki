@@ -20,7 +20,9 @@ Motivation: My Motivation is that I want to learn new things as I follow my pass
   
 Motivation: Building cool tech for FreeGym</li>
 
+<li>Name: Himanshu
 
+Motivation: My Motivation is to provide right information about fitness to every beginner.</li>
 </ol>
 <!-- copy this and add your
 
