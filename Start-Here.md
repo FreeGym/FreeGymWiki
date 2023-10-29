@@ -26,7 +26,6 @@ Motivation: My Motivation is to contribute with full of potential and be the par
 </ol>
 <!-- copy this and add your
 
-Name: Add your Name 
-Motivation: Add your Motivation
-
+Name: manisha
+Motivation: The motivation behind joining a fitness team is to collaborate with like-minded individuals who share a passion for promoting health and wellness
 -->
