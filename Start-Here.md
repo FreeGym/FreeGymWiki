@@ -23,6 +23,10 @@ Motivation: Building cool tech for FreeGym</li>
 <li>Name: Arun Kumar
 
 Motivation: My Motivation is to contribute with full of potential and be the part of free gym!</li>
+
+<li>Name: Himanshu(Liberator)
+  
+Motivation: My motivation is to provide correct information to every beginner in fitness industry.</li>
 </ol>
 <!-- copy this and add your
 
