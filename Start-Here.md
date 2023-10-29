@@ -5,15 +5,19 @@ We are excited you are here and want to contribute to our project! We hope this 
 Add your name and motivation to join this community message below to introduce yourself, and become a contributor!
 
 ## Contributors
+<ol>
+<li>Name: Hardikk Kamboj
 
-Name: Hardikk Kamboj
-
-Motivation: My Motivation is that I want to help build this community and make it the first and biggest tech and fitness community out there!
+Motivation: My Motivation is that I want to help build this community and make it the first and biggest tech and fitness community out there!</li>
 
 <!-- Add Yours Below -> Do not Delete other entries, please be considerate!-->
 
+<li>Name: Dishant Sharma
+
+Motivation: My Motivation is that I want to learn new things as I follow my passion for fitness and tech, and help build a community that is a one-stop place for every fitness enthusiast out there.</li>
 
 
+</ol>
 <!-- copy this and add your
 
 Name: Add your Name 
