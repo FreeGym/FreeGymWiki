@@ -24,6 +24,10 @@ Motivation: Building cool tech for FreeGym</li>
 
 Motivation: My Motivation is to contribute with full of potential and be the part of free gym!</li>
 
+<li>Name: Nachiketh Shetty 
+  
+Motivation: I don't want to whine about how the fitness industry is going backwards without contributing anything myself to move the industry in a positive direction. Thats my whole reason behind becoming a part of FreeGym</li>
+
 <li>Name: Himanshu(Liberator)
   
 Motivation: My motivation is to provide correct information to every beginner in fitness industry.</li>
