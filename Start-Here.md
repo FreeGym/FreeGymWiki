@@ -31,6 +31,10 @@ Motivation: I don't want to whine about how the fitness industry is going backwa
 <li>Name: Himanshu(Liberator)
   
 Motivation: My motivation is to provide correct information to every beginner in fitness industry.</li>
+
+<li>Name: Mehul Suthar
+  
+Motivation: My motivation is to make fitness knowledge for free to everyone single person.</li>
 </ol>
 <!-- copy this and add your
 
