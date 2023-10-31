@@ -110,8 +110,10 @@ Unilateral barbell row with one end anchored, while placing the other hand and k
 
 - Was any context provided?
 - Did the influencer mention any scientific studies or research to back up their claims?
-- Did the creator present the statement as universally applicable without exceptions?- What were the underlying assumptions of the creator?
-- What terminology or word choices does the creator use to frame the claims? Do they use exaggerated or emotive language?
+- Did the creator present the statement as universally applicable without exceptions?
+- What were the underlying assumptions of the creator?
+- What terminology or word choices does the creator use to frame the claims?
+- Do they use exaggerated or emotive language?
 - Are the claims based on personal opinion or objective evidence?
 - Does the video portray a nuanced discussion of pros/cons, or make black/white good/bad declarations?
 - How did the influencer measure or determine the "effectiveness" or "superiority" of each exercise?
