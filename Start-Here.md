@@ -16,6 +16,7 @@ Motivation: My Motivation is that I want to help build this community and make i
 
 Motivation: My Motivation is that I want to learn new things as I follow my passion for fitness and tech, and help build a community that is a one-stop place for every fitness enthusiast out there.</li>
 
+
 <li>Name: Tanmay 
   
 Motivation: Building cool tech for FreeGym</li>
@@ -31,6 +32,10 @@ Motivation: I don't want to whine about how the fitness industry is going backwa
 <li>Name: Himanshu(Liberator)
   
 Motivation: My motivation is to provide correct information to every beginner in fitness industry.</li>
+
+<li>Name: Habeeb
+
+Motivation: "Do the hard work, especially when you don't feel like it". I want to work with people on the same journey as mine, the journey of self-improvement. And I'm glad that I'm summoned here, to be among the intellects, what a feat!</li>
 
 <li>Name: Mehul Suthar
   
