@@ -41,3 +41,6 @@ Motivation: My motivation is to make fitness knowledge for free to everyone sing
 Name: manisha
 Motivation: The motivation behind joining a fitness team is to collaborate with like-minded individuals who share a passion for promoting health and wellness
 -->
+<li>Name: Siddhant Prasad 
+  
+Motivation: To clear the noise and junk in the world of fitness.</li>
