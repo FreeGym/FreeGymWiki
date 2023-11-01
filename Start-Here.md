@@ -9,7 +9,10 @@ Add your name and motivation to join this community message below to introduce y
 Name: Hardikk Kamboj
 
 Motivation: My Motivation is that I want to help build this community and make it the first and biggest tech and fitness community out there!
-
+<ul>
+<li>Name: Aman Gusain</li>
+<li>Motivation: I want to eradicate any wrong suggestions about fitness in the internet. </li>
+</ul>
 <!-- Add Yours Below -> Do not Delete other entries, please be considerate!-->
 
 
