@@ -52,3 +52,6 @@ Motivation: To clear the noise and junk in the world of fitness.</li>
 <li>Name: Neha
 
 Motivation: My motivation behind joining this team is to contribute in revolutionising the fitness industry, to make things simpler for general well being of masses.</li>
+<li>Name: Harish
+
+Motivation: to learn and preach</li>
