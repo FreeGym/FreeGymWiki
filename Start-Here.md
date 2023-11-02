@@ -55,3 +55,6 @@ Motivation: My motivation behind joining this team is to contribute in revolutio
 <li>Name: Harish
 
 Motivation: to learn and preach</li>
+<li>Name: Akshat
+
+Motivation: I am here for the  opportunity to uncover the secrets of human performance and health and helping athletes to reach their full potential through evidence - based research and innovative solutions</li>
