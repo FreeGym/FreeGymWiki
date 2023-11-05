@@ -4,7 +4,9 @@ Collaborative wiki for evidence-based fact checks of claims made in fitness vide
 
 ![FreeGym!](https://github.com/FreeGym/images/assets/128644548/1a129c09-db51-4d85-ae52-6470bf12d1be)
 
-## Why?
+
+<details open>
+  <summary><h2> Why?</h2></summary>
 
 Misinformation and unsubstantiated claims are rampant in online fitness content. This wiki aims to counter that by promoting science-backed information through collaborative fact-checking.
 
@@ -21,8 +23,10 @@ Misinformation and unsubstantiated claims are rampant in online fitness content.
 6. **Maximizing the Good:** Gaining attention might benefit an influencer's growth, but it's not always in the best interest of the broader community. The primary aim should be to maximize the good, promote accurate information, and build a culture of learning and mutual respect.
 
 This community provides a neutral platform for enthusiasts, professionals, and creators to dig deeper into fitness claims away from hype and algorithms. The fact-checking process focuses on transparent sourcing, weighing the merits of evidence, and providing context around truths. Together we can build fitness literacy and further collective knowledge.
+</details>
 
-## What’s Our Short-Term Goal?
+<details open>
+  <summary><h2> What’s Our Short-Term Goal?</h2></summary>
 
 Our immediate focus is to identify the founding fathers and mothers of modern fitness and build the initial founding community for collaborative fact-checking and jointly drafting our constitution. 
 
@@ -48,9 +52,11 @@ This engaged founding community will collaborate on structuring how we:
 The diverse founding members will collaborate on writing this constitution to align with our mission, principles, and intentions as a community. The Constitution will provide the groundwork for how we operate with transparency, rigor, inclusiveness, and constructive impact.
 
 If this mission resonates with you, reach out to join the founding member discussion. Let's maximize the good.
+</details>
 
-## My Limitations
-
+<details open>
+  <summary><h2>My Limitations</h2></summary>
+  
 As the initiator of this fitness fact-checking community, I recognize my own limitations. I am just one person with a constrained perspective and finite knowledge.
 
 I do not claim to have all the answers or be an infallible authority. I am bound to make mistakes or oversights at times. My brain bandwidth is restricted, my memory is imperfect, and my expertise has boundaries.
@@ -63,8 +69,11 @@ The goal is to tap into our collective wisdom through respectful debates, transp
 
 My voice is limited, but our voices combined have power. I look forward to learning from you all as we shape the future of fitness education together.
 
-## How To Contribute
+</details>
 
+<details open>
+  <summary><h2> How To Contribute</h2></summary>
+  
 For detailed instructions on how to contribute to this project, please refer to the [How To Contribute Guidelines](how_to_contribute.md).
 
 ## Start Here 
@@ -72,8 +81,11 @@ For detailed instructions on how to contribute to this project, please refer to 
 Go to this link, add your name and motivation behind joining this community after going through the above [mentioned](how_to_contribute.md) guide.<br>
 [Start Here](Start-Here.md)
 
+</details>
 
-## The Constitution
+
+<details open>
+  <summary><h2>The Constitution</h2></summary>
 
 I will not write it alone. That would inject bias. This is where the founding community comes in.
 
@@ -95,9 +107,12 @@ But beyond the revolution, at the heart of this movement, is a story of trust, l
 
 ---
 
+
 रिश्ता दिल से दिल के ऐतबार का <br>
 ज़िन्दा है हमीं से नाम प्यार का <br>
 के मर के भी किसी को याद आयेंगे <br>
 किसी के आँसुओं में मुस्कुरायेंगे <br>
 कहेगा फूल हर कली से बार बार <br>
 जीना इसी का नाम है
+
+</details>
